@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://D:\xiangmu\OneTimeq\MyApplication5.iml" filepath="D:\xiangmu\OneTimeq\MyApplication5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/OneTimeq.iml" filepath="$PROJECT_DIR$/.idea/OneTimeq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OneTime.iml" filepath="$PROJECT_DIR$/.idea/OneTime.iml" />
+      <module fileurl="file://D:\xiangmu\OneTime\.idea\OneTimeq.iml" filepath="D:\xiangmu\OneTime\.idea\OneTimeq.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://D:\xiangmu\OneTimeq\app\app.iml" filepath="D:\xiangmu\OneTimeq\app\app.iml" />
+      <module fileurl="file://D:\xiangmu\OneTime\app\app.iml" filepath="D:\xiangmu\OneTime\app\app.iml" />
     </modules>
   </component>
 </project>
